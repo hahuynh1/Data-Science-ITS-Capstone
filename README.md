@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Vizion Zero Philly
 
 ## What is the data science problem to be solved and why is it important?
@@ -63,6 +62,3 @@
     ### Team Communication: Maintain regular communication through the existing Discord server for discussions and updates.
 
 ### This plan provides a structured approach to tackling the data science problem, offering valuable insights and recommendations for PennDOT to enhance road safety in Philadelphia. Remember to adapt and refine the plan as needed throughout the project lifecycle.
-=======
-# VisionZero Philly
->>>>>>> 7fff3ae789224519b9267ded799fa5b12baecc7f
